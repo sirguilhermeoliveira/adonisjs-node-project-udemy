@@ -1,5 +1,5 @@
 # API  /   To do List AdonisJS-Node-Project-Udemy
-## Desenvolvido em Node
+## Desenvolvido em Node pelo AdonisJS
 
 ![Alt Text](https://media.giphy.com/media/d3cIxiUbUf62TV5CZm/giphy.gif)
 
@@ -7,11 +7,12 @@
 
 ## Conteúdo
 
+``` bash
 #Projeto em Node com AdonisJS
-#Validator do adonisJs
-#Recursos do AdonisJs para criar seu site, sistema ou API
-#API completa
-#Upload de arquivos em sua API
+Validator do adonisJs
+Recursos do AdonisJs para criar seu site, sistema ou API
+API completa
+Upload de arquivos em sua API
 
 ## Intalação
 
